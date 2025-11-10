@@ -23,5 +23,3 @@ This project is a **console-based ATM (Automated Teller Machine) simulator** wri
 1. Compile the code:  
 g++ ATM.cpp -o ATM
 ./ATM
-```bash
-g++ ATM.cpp -o ATM
