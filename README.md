@@ -28,13 +28,10 @@ All operations are reflected in the account balance.
 The program continues running until the user selects the "Quit" option.
 
 How to Run
-
 Compile the code:
 
 g++ ATM.cpp -o ATM
+./ATM
 
 
-Run the executable:
 
-./ATM   # On Linux/Mac
-ATM.exe # On Windows
